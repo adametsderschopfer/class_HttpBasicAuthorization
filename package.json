@@ -1,0 +1,23 @@
+{
+  "name": "class_httpbasicauthorization",
+  "version": "1.0.0",
+  "description": "class HttpBasicAuthorization for use in native http(s) or\\and in express framework",
+  "main": "HttpBasicAuthorization.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adametsofficial/class_HttpBasicAuthorization.git"
+  },
+  "keywords": [],
+  "author": "Adametsofficial <av.styledev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adametsofficial/class_HttpBasicAuthorization/issues"
+  },
+  "homepage": "https://github.com/adametsofficial/class_HttpBasicAuthorization#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
